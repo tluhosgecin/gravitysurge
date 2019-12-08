@@ -5,7 +5,7 @@ A Game Prototype For Game Development Patterns Final Project.
 ## Project Group
 Cem Hosgecin, Hamza Rashad, Md Kudrat-E Khuda, Milan Mucka.
 
-## Game Development Patterns Used
+## Project Game Development Patterns
 * Command
 * Bytecode
 * Singleton
